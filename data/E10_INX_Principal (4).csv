@@ -1,0 +1,389 @@
+Number,Organization,TeacherCategory,Percentage
+1,Adna School District,Other School Leaders,0.5
+1,Almira School District,Other School Leaders,1
+1,Anacortes School District,Principals,0.1
+1,Asotin-Anatone School District,Other School Leaders,0.333333333
+1,Auburn School District,Principals,0.022222222
+1,Boistfort School District,Principals,1
+1,Boistfort School District,Other School Leaders,1
+1,Bremerton School District,Principals,0.0625
+1,Brewster School District,Principals,0.25
+1,Brinnon School District,Other School Leaders,0.5
+1,Burlington-Edison School District,Principals,0.1
+1,Camas School District,Principals,0.047619048
+1,Castle Rock School District,Principals,0.2
+1,Chewelah School District,Principals,0.333333333
+1,Chimacum School District,Principals,0.25
+1,Clarkston School District,Principals,0.111111111
+1,Colfax School District,Principals,0.333333333
+1,Columbia (Stevens) School District,Principals,0.5
+1,Coulee-Hartline School District,Other School Leaders,0.333333333
+1,Coupeville School District,Principals,0.333333333
+1,Crescent School District,Principals,0.5
+1,Cusick School District,Other School Leaders,0.25
+1,Davenport School District,Principals,0.5
+1,Dayton School District,Principals,0.5
+1,Deer Park School District,Principals,0.142857143
+1,East Valley School District (Yakima),Principals,0.090909091
+1,Easton School District,Other School Leaders,0.5
+1,Eatonville School District,Principals,0.142857143
+1,Entiat School District,Principals,1
+1,Ephrata School District,Principals,0.125
+1,Everett School District,Principals,0.017857143
+1,Franklin Pierce School District,Principals,0.043478261
+1,Glenwood School District,Principals,1
+1,Grandview School District,Principals,0.076923077
+1,Granite Falls School District,Principals,0.166666667
+1,Green Dot Destiny,Principals,0.333333333
+1,Highland School District,Principals,0.25
+1,Hood Canal School District,Principals,1
+1,Index Elementary School District 63,Other School Leaders,0.5
+1,Issaquah School District,Principals,0.023255814
+1,Kahlotus School District,Other School Leaders,0.5
+1,Kittitas School District,Principals,0.5
+1,La Conner School District,Principals,0.5
+1,LaCrosse School District,Other School Leaders,0.5
+1,Lake Chelan School District,Principals,0.2
+1,Lake Stevens School District,Principals,0.047619048
+1,Lopez School District,Principals,0.5
+1,Lummi Tribal Agency,Principals,0.333333333
+1,Lyle School District,Principals,1
+1,Mansfield School District,Other School Leaders,1
+1,Mary M Knight School District,Principals,1
+1,Mary M Knight School District,Other School Leaders,0.333333333
+1,Mary Walker School District,Other School Leaders,0.25
+1,Marysville School District,Principals,0.03125
+1,Methow Valley School District,Other School Leaders,0.25
+1,Monroe School District,Principals,0.058823529
+1,Moses Lake School District,Principals,0.04
+1,Mount Baker School District,Principals,0.166666667
+1,Nespelem School District #14,Other School Leaders,0.333333333
+1,North Beach School District No. 64,Principals,0.25
+1,North Kitsap School District,Principals,0.058823529
+1,North River School District,Other School Leaders,0.5
+1,Northshore School District,Principals,0.018181818
+1,Ocean Beach School District,Principals,0.2
+1,Ocosta School District,Principals,0.5
+1,Odessa School District,Other School Leaders,1
+1,Orcas Island School District,Principals,0.333333333
+1,Orient School District,Other School Leaders,1
+1,Oroville School District,Principals,0.5
+1,Orting School District,Principals,0.125
+1,Palouse School District,Other School Leaders,0.5
+1,Prosser School District,Principals,0.111111111
+1,Pullman School District,Principals,0.111111111
+1,Quilcene School District,Principals,0.5
+1,Raymond School District,Principals,0.5
+1,Republic School District,Other School Leaders,0.333333333
+1,Richland School District,Principals,0.025
+1,Ritzville School District,Principals,0.5
+1,Riverview School District,Principals,0.111111111
+1,Rosalia School District,Other School Leaders,0.5
+1,Royal School District,Principals,0.166666667
+1,Sedro-Woolley School District,Principals,0.066666667
+1,Selkirk School District,Other School Leaders,0.25
+1,Snoqualmie Valley School District,Principals,0.052631579
+1,South Whidbey School District,Principals,0.25
+1,Sprague School District,Other School Leaders,1
+1,Sultan School District,Principals,0.142857143
+1,Summit Public School: Sierra,Principals,1
+1,Suquamish Tribal Education Department,Other School Leaders,1
+1,Tekoa School District,Other School Leaders,0.5
+1,Toledo School District,Principals,0.333333333
+1,Toppenish School District,Principals,0.076923077
+1,Touchet School District,Other School Leaders,0.333333333
+1,Tumwater School District,Principals,0.047619048
+1,Union Gap School District,Principals,1
+1,Wahkiakum School District,Other School Leaders,1
+1,Warden School District,Principals,0.25
+1,Waterville School District,Principals,0.5
+1,Wellpinit School District,Other School Leaders,0.5
+1,Willapa Valley School District,Other School Leaders,0.5
+1,Wishram School District,Principals,1
+1,Woodland School District,Principals,0.166666667
+1,Zillah School District,Principals,0.166666667
+2,Arlington School District,Principals,0.111111111
+2,Bethel School District,Principals,0.037735849
+2,Cascade School District,Principals,0.4
+2,Cheney School District,Principals,0.125
+2,Clover Park School District,Principals,0.054054054
+2,Colton School District,Other School Leaders,0.666666667
+2,Columbia (Stevens) School District,Other School Leaders,1
+2,Curlew School District,Other School Leaders,0.666666667
+2,Davenport School District,Other School Leaders,0.5
+2,Dieringer School District,Other School Leaders,0.4
+2,Endicott School District,Other School Leaders,0.666666667
+2,Excel Public Charter School,Principals,1
+2,Glenwood School District,Other School Leaders,1
+2,Harrington School District,Other School Leaders,0.666666667
+2,Kalama School District,Other School Leaders,0.666666667
+2,Kettle Falls School District,Other School Leaders,0.4
+2,La Center School District,Principals,0.4
+2,La Center School District,Other School Leaders,0.285714286
+2,Lakewood School District,Principals,0.285714286
+2,Lopez School District,Other School Leaders,0.5
+2,Lyle School District,Other School Leaders,1
+2,Mabton School District,Principals,0.5
+2,Mercer Island School District,Principals,0.153846154
+2,Mount Pleasant School District,Other School Leaders,1
+2,Napavine School District,Other School Leaders,0.5
+2,North Mason School District,Principals,0.222222222
+2,Oakville School District,Principals,1
+2,Orcas Island School District,Other School Leaders,1
+2,Othello School District,Principals,0.125
+2,Prescott School District,Other School Leaders,1
+2,Quileute Tribal School District,Other School Leaders,0.5
+2,Reardan-Edwall School District,Other School Leaders,0.5
+2,Ridgefield School District,Principals,0.285714286
+2,Ritzville School District,Other School Leaders,1
+2,Spokane International Academy,Principals,1
+2,Spokane International Academy,Other School Leaders,1
+2,Spokane School District,Principals,0.027777778
+2,St. John School District,Other School Leaders,0.666666667
+2,Steilacoom Hist. School District,Principals,0.181818182
+2,Stevenson-Carson School District,Principals,0.5
+2,Tenino School District,Principals,0.333333333
+2,Tonasket School District,Principals,0.5
+2,Toutle Lake School District,Other School Leaders,0.666666667
+2,Wahluke School District,Principals,0.2
+2,Waitsburg School District,Other School Leaders,0.5
+2,Washtucna School District,Other School Leaders,0.666666667
+2,West Valley School District (Yakima),Principals,0.125
+2,White Pass School District,Principals,1
+2,White Pass School District,Other School Leaders,0.5
+2,Wilson Creek School District,Other School Leaders,1
+2,Wishram School District,Other School Leaders,1
+3,Bellevue School District,Principals,0.047619048
+3,Columbia (Walla Walla) School District,Other School Leaders,0.75
+3,Creston School District,Other School Leaders,0.75
+3,Dayton School District,Other School Leaders,0.75
+3,Ferndale School District,Principals,0.230769231
+3,Garfield School District,Other School Leaders,0.75
+3,Griffin School District,Other School Leaders,0.5
+3,Hood Canal School District,Other School Leaders,0.6
+3,Inchelium School District,Other School Leaders,0.75
+3,Kiona-Benton City School District,Principals,0.6
+3,Klickitat School District,Other School Leaders,0.6
+3,Lind School District,Other School Leaders,1
+3,Manson School District,Other School Leaders,0.5
+3,Mossyrock School District,Other School Leaders,0.75
+3,Naselle-Grays River Valley School District,Other School Leaders,0.6
+3,Oakesdale School District,Other School Leaders,0.6
+3,Oakville School District,Other School Leaders,1
+3,Onalaska School District,Other School Leaders,0.75
+3,Onion Creek School District,Other School Leaders,0.75
+3,Pioneer School District,Other School Leaders,0.6
+3,Pomeroy School District,Other School Leaders,0.6
+3,Puyallup School District,Principals,0.051724138
+3,Shoreline School District,Principals,0.125
+3,Skykomish School District,Other School Leaders,1
+3,Soap Lake School District,Other School Leaders,0.5
+3,South Bend School District,Other School Leaders,0.5
+3,Washougal School District,Other School Leaders,0.214285714
+3,Wilbur School District,Other School Leaders,1
+3,Winlock School District,Other School Leaders,1
+3,Wishkah Valley School District,Other School Leaders,1
+3,Zillah School District,Other School Leaders,0.428571429
+4,Brewster School District,Other School Leaders,0.5
+4,Bridgeport School District,Other School Leaders,0.666666667
+4,Cape Flattery School District,Other School Leaders,0.8
+4,CASHMERE SCHOOL DISTRICT,Other School Leaders,0.571428571
+4,Chewelah School District,Other School Leaders,0.666666667
+4,Colfax School District,Other School Leaders,0.666666667
+4,Conway School District,Other School Leaders,0.666666667
+4,Darrington School District,Other School Leaders,0.8
+4,Deer Park School District,Other School Leaders,0.5
+4,Finley School District,Other School Leaders,0.666666667
+4,Hoquiam School District,Principals,0.666666667
+4,Kittitas School District,Other School Leaders,1
+4,Morton School District,Other School Leaders,1
+4,Mount Adams School District,Principals,0.8
+4,Naches Valley School District,Other School Leaders,0.571428571
+4,North Beach School District No. 64,Other School Leaders,0.666666667
+4,Ocosta School District,Other School Leaders,0.571428571
+4,Orondo School District,Other School Leaders,0.666666667
+4,Pateros School District,Other School Leaders,1
+4,Quilcene School District,Other School Leaders,0.8
+4,Riverside School District,Other School Leaders,0.5
+4,Rochester School District,Other School Leaders,0.4
+4,Sumner School District,Principals,0.117647059
+4,Tukwila School District,Principals,0.333333333
+4,Vashon Island School District,Principals,0.666666667
+5,Concrete School District,Other School Leaders,0.555555556
+5,Coupeville School District,Other School Leaders,0.833333333
+5,Grand Coulee Dam School District,Other School Leaders,0.714285714
+5,Medical Lake School District,Other School Leaders,0.625
+5,Montesano School District,Other School Leaders,0.555555556
+5,Mount Adams School District,Other School Leaders,0.625
+5,Mount Baker School District,Other School Leaders,0.625
+5,Oroville School District,Other School Leaders,0.714285714
+5,Rainier School District,Other School Leaders,0.625
+5,Raymond School District,Other School Leaders,0.625
+5,San Juan Island School District,Other School Leaders,0.833333333
+5,Stevenson-Carson School District,Other School Leaders,0.833333333
+5,Tonasket School District,Other School Leaders,0.833333333
+5,Union Gap School District,Other School Leaders,0.833333333
+5,University Place School District,Principals,0.3125
+5,Vancouver School District,Principals,0.070422535
+6,Castle Rock School District,Other School Leaders,0.6
+6,Chimacum School District,Other School Leaders,0.666666667
+6,Cle Elum-Roslyn School District,Other School Leaders,0.6
+6,Elma School District,Other School Leaders,0.545454545
+6,Excel Public Charter School,Other School Leaders,1
+6,Freeman School District,Other School Leaders,0.6
+6,Goldendale School District,Other School Leaders,0.75
+6,Highland School District,Other School Leaders,0.666666667
+6,Hockinson School District,Other School Leaders,0.5
+6,Kiona-Benton City School District,Other School Leaders,0.315789474
+6,Lake Washington School District,Principals,0.073170732
+6,Nine Mile Falls School District,Other School Leaders,0.5
+6,Nooksack Valley School District,Other School Leaders,0.428571429
+6,Quillayute Valley School District,Other School Leaders,0.545454545
+6,Rainier Valley Leadership Academy,Other School Leaders,1
+6,Sequim School District,Other School Leaders,0.4
+6,Steilacoom Hist. School District,Other School Leaders,0.5
+6,Tenino School District,Other School Leaders,0.75
+6,Yakima School District,Principals,0.117647059
+7,Cascade School District,Other School Leaders,0.7
+7,College Place School District,Other School Leaders,0.636363636
+7,Entiat School District,Other School Leaders,0.777777778
+7,Liberty School District,Other School Leaders,0.777777778
+7,Newport School District,Other School Leaders,0.777777778
+7,North Franklin School District,Other School Leaders,0.538461538
+7,Ocean Beach School District,Other School Leaders,0.7
+7,Okanogan School District,Other School Leaders,0.777777778
+7,Quincy School District,Other School Leaders,0.35
+7,Sultan School District,Other School Leaders,0.7
+7,Toledo School District,Other School Leaders,0.875
+8,Eatonville School District,Other School Leaders,0.727272727
+8,Edmonds School District,Principals,0.135593220
+8,La Conner School District,Other School Leaders,0.8
+8,Lake Chelan School District,Other School Leaders,0.727272727
+8,Lakewood School District,Other School Leaders,0.727272727
+8,Pullman School District,Other School Leaders,0.666666667
+8,Renton School District,Principals,0.145454545
+8,Royal School District,Other School Leaders,0.533333333
+8,South Whidbey School District,Other School Leaders,0.888888889
+8,Taholah School District,Other School Leaders,0.888888889
+9,Clarkston School District,Other School Leaders,0.692307692
+9,Colville School District,Other School Leaders,0.818181818
+9,Ephrata School District,Other School Leaders,0.5625
+9,Granite Falls School District,Other School Leaders,0.692307692
+9,Meridian School District,Other School Leaders,0.75
+9,Port Townsend School District,Other School Leaders,0.642857143
+9,Prosser School District,Other School Leaders,0.5
+9,Tacoma School District,Principals,0.089108911
+9,Warden School District,Other School Leaders,0.6
+9,Woodland School District,Other School Leaders,0.5
+10,Blaine School District,Other School Leaders,0.666666667
+10,Crescent School District,Other School Leaders,0.4
+10,East Valley School District (Yakima),Other School Leaders,0.588235294
+10,Enumclaw School District,Other School Leaders,0.5
+10,Federal Way School District,Principals,0.121951220
+10,Hoquiam School District,Other School Leaders,0.666666667
+10,Mabton School District,Other School Leaders,0.909090909
+10,Orting School District,Other School Leaders,0.769230769
+10,Ridgefield School District,Other School Leaders,0.625
+10,White Salmon Valley School District,Other School Leaders,0.769230769
+11,Arlington School District,Other School Leaders,0.611111111
+11,Chehalis School District,Other School Leaders,0.611111111
+11,Lynden School District,Other School Leaders,0.647058824
+11,Mercer Island School District,Other School Leaders,0.323529412
+11,Wahluke School District,Other School Leaders,0.6875
+12,Anacortes School District,Other School Leaders,0.631578947
+12,Kelso School District,Other School Leaders,0.571428571
+12,Omak School District,Other School Leaders,0.8
+12,Vashon Island School District,Other School Leaders,0.705882353
+13,Aberdeen School District,Other School Leaders,0.619047619
+13,Ferndale School District,Other School Leaders,0.464285714
+13,Fife School District,Other School Leaders,0.52
+13,Granger School District,Other School Leaders,0.764705882
+13,Monroe School District,Other School Leaders,0.481481481
+13,North Mason School District,Other School Leaders,0.590909091
+13,Port Angeles School District,Other School Leaders,0.590909091
+13,Snoqualmie Valley School District,Other School Leaders,0.40625
+13,West Valley School District (Spokane),Other School Leaders,0.684210526
+13,White River School District,Other School Leaders,0.565217391
+14,Tukwila School District,Other School Leaders,0.7
+15,East Valley School District (Spokane),Other School Leaders,0.576923077
+15,Eastmont School District,Other School Leaders,0.576923077
+15,Grandview School District,Other School Leaders,0.576923077
+15,Riverview School District,Other School Leaders,0.714285714
+16,Ellensburg School District,Other School Leaders,0.666666667
+16,Othello School District,Other School Leaders,0.533333333
+16,Selah School District,Other School Leaders,0.64
+16,Toppenish School District,Other School Leaders,0.551724138
+17,Cheney School District,Other School Leaders,0.653846154
+17,Longview School District,Other School Leaders,0.566666667
+17,Sedro-Woolley School District,Other School Leaders,0.459459459
+17,Tahoma School District,Other School Leaders,0.425
+18,Burlington-Edison School District,Other School Leaders,0.409090909
+18,Centralia School District,Other School Leaders,0.692307692
+18,Wapato School District,Other School Leaders,0.620689655
+18,Yelm School District,Other School Leaders,0.72
+19,Camas School District,Other School Leaders,0.513513514
+19,Franklin Pierce School District,Other School Leaders,0.463414634
+19,Lake Stevens School District,Other School Leaders,0.5
+19,Moses Lake School District,Other School Leaders,0.422222222
+19,North Kitsap School District,Other School Leaders,0.59375
+19,Olympic Educational Service District 114,Other School Leaders,0.791666667
+19,University Place School District,Other School Leaders,0.730769231
+19,Valley School District,Other School Leaders,0.904761905
+20,Bainbridge Island School District,Other School Leaders,0.606060606
+20,Bremerton School District,Other School Leaders,0.555555556
+20,Educational Service District 123,Other School Leaders,0.740740741
+20,Mead School District,Other School Leaders,0.588235294
+20,Mount Vernon School District,Other School Leaders,0.392156863
+20,Stanwood-Camano School District,Other School Leaders,0.714285714
+21,Central Valley School District,Other School Leaders,0.428571429
+21,Highline School District,Principals,0.333333333
+21,Oak Harbor School District,Other School Leaders,0.636363636
+23,Northwest Educational Service District 189,Other School Leaders,0.958333333
+23,Shelton School District,Other School Leaders,0.71875
+23,Tumwater School District,Other School Leaders,0.547619048
+23,West Valley School District (Yakima),Other School Leaders,0.450980392
+24,Peninsula School District,Other School Leaders,0.545454545
+25,Kent School District,Principals,0.294117647
+26,Marysville School District,Other School Leaders,0.634146341
+27,Snohomish School District,Other School Leaders,0.490909091
+28,Shoreline School District,Other School Leaders,0.417910448
+29,Mukilteo School District,Other School Leaders,0.439393939
+31,Walla Walla Public Schools,Other School Leaders,0.584905660
+32,Educational Service District 112,Other School Leaders,1
+32,South Kitsap School District,Other School Leaders,0.533333333
+32,Sumner School District,Other School Leaders,0.551724138
+34,Wenatchee School District,Other School Leaders,0.607142857
+35,Educational Service District 101,Other School Leaders,0.921052632
+36,Central Kitsap School District,Other School Leaders,0.507042254
+36,Olympia School District,Other School Leaders,0.610169492
+37,Richland School District,Other School Leaders,0.616666667
+38,Seattle School District #1,Principals,0.190954774
+39,Clover Park School District,Other School Leaders,0.557142857
+42,Auburn School District,Other School Leaders,0.456521739
+42,Yakima School District,Other School Leaders,0.42
+44,North Thurston Public Schools,Other School Leaders,0.517647059
+44,Sunnyside School District,Other School Leaders,0.733333333
+46,Bellingham School District,Other School Leaders,0.511111111
+48,Northshore School District,Other School Leaders,0.578313253
+49,Kennewick School District,Other School Leaders,0.569767442
+54,Vancouver School District,Other School Leaders,0.382978723
+56,Lake Washington School District,Other School Leaders,0.455284553
+58,Highline School District,Other School Leaders,0.467741935
+60,Battle Ground School District,Other School Leaders,0.560747664
+61,Capital Region ESD 113,Other School Leaders,0.953125
+63,Edmonds School District,Other School Leaders,0.65625
+63,Everett School District,Other School Leaders,0.572727273
+63,Pasco School District,Other School Leaders,0.759036145
+66,Puyallup School District,Other School Leaders,0.680412371
+71,Evergreen School District (Clark),Other School Leaders,0.396648045
+71,Kent School District,Other School Leaders,0.724489796
+73,Issaquah School District,Other School Leaders,0.708737864
+73,Renton School District,Other School Leaders,0.528985507
+77,Federal Way School District,Other School Leaders,0.542253521
+77,Spokane School District,Other School Leaders,0.475308642
+80,Bellevue School District,Other School Leaders,0.519480519
+82,Bethel School District,Other School Leaders,0.565517241
+103,Tacoma School District,Other School Leaders,0.443965517
+210,Seattle School District #1,Other School Leaders,0.638297872
+295,Washington State,Principals,0.087537092
+4067,Washington State,Other School Leaders,0.578849986
